@@ -1,0 +1,10 @@
+# > OneDrive
+USER-AGENT,OneDrive*,Drive
+USER-AGENT,OneDriveiOSApp*,Drive
+
+// Google Drive
+USER-AGENT,Google.Drive,Drive
+USER-AGENT,Google.Drive*,Drive
+DOMAIN-SUFFIX,googleapis.com,Drive
+DOMAIN-SUFFIX,googleusercontent.com,Drive
+DOMAIN-SUFFIX,drive.google.com,Drive
