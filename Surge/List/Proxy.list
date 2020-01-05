@@ -36,33 +36,8 @@ DOMAIN-SUFFIX,outlook.com
 
 
 
-// adult
-
-
-DOMAIN-SUFFIX,91porn.com,force-remote-dns
-
-DOMAIN-SUFFIX,pornhub.com
-
-DOMAIN-SUFFIX,t66y.com
-
-DOMAIN-SUFFIX,xvideos.com
-
-DOMAIN-SUFFIX,kdw019.com
-
-
-// tiktok
-USER-AGENT,TikTok*
-DOMAIN-SUFFIX,musical.ly
-DOMAIN-SUFFIX,tiktokv.com
-DOMAIN-SUFFIX,tiktokcdn.com
-DOMAIN-KEYWORD,-tiktokcdn-com
-
 // notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amplitude.com
 DOMAIN-SUFFIX,intercom.io
 
-// Pornhub
-DOMAIN-SUFFIX,phncdn.com
-DOMAIN-SUFFIX,pornhub.com
-DOMAIN-SUFFIX,pornhubpremium.com
