@@ -1,0 +1,15 @@
+// Umeng
+
+DOMAIN,msg.umeng.com
+
+DOMAIN,msg.umengcloud.com
+
+//石头阅读
+DOMAIN,read-novel-chapter.stoneread.com
+
+// 京东
+DOMAIN,api.m.jd.com
+URL-REGEX,^https?:\/\/api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig)
+
+// 51 无损音乐
+DOMAIN-SUFFIX,51ape.com

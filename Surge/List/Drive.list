@@ -1,0 +1,18 @@
+// OneDrive
+
+PROCESS-NAME,OneDrive
+
+PROCESS-NAME,OneDriveUpdater
+
+USER-AGENT,OneDrive*
+
+USER-AGENT,OneDriveiOSApp*
+
+DOMAIN-SUFFIX,mediap.svc.ms
+
+// Google Drive
+USER-AGENT,Google.Drive
+USER-AGENT,Google.Drive*
+DOMAIN-SUFFIX,googleapis.com
+DOMAIN-SUFFIX,googleusercontent.com
+DOMAIN-SUFFIX,drive.google.com
