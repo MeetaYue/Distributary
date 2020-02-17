@@ -11,5 +11,8 @@ DOMAIN,read-novel-chapter.stoneread.com
 DOMAIN,api.m.jd.com
 URL-REGEX,^https?:\/\/api\.m\.jd\.com/client\.action\?functionId=(wareBusiness|serverConfig)
 
-// 51 无损音乐
-DOMAIN-SUFFIX,51ape.com
+
+# Cydia_Internal
+DOMAIN,apt.cydiabc.top
+DOMAIN,apt.dddjb.cn
+DOMAIN,repo.qqtlr.com

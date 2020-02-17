@@ -36,6 +36,9 @@ DOMAIN-SUFFIX,outlook.com
 
 
 
+
+
+
 // notion
 DOMAIN-SUFFIX,notion.so
 DOMAIN-SUFFIX,amplitude.com
@@ -60,3 +63,26 @@ DOMAIN-KEYWORD,instagram
 DOMAIN-KEYWORD,twitter
 
 DOMAIN-KEYWORD,whatsapp
+
+
+# Cydia_Abroad
+DOMAIN-SUFFIX,thebigboss.org  // BigBoss
+DOMAIN,apt.modmyi.com // ModMyi
+DOMAIN,apt.saurik.com // Saurik
+DOMAIN,rpetri.ch
+DOMAIN,repo.packix.com
+DOMAIN,cydia.akemi.ai
+DOMAIN,getdelta.co
+DOMAIN,limneos.net
+DOMAIN,tigisoftware.com
+DOMAIN,ib-soft.net
+DOMAIN,pulandres.me
+DOMAIN,ryleyangus.com
+DOMAIN-SUFFIX,repo.supercharge.app
+DOMAIN,cydia.iphonecake.com
+DOMAIN,xsf1re.github.io
+DOMAIN,julio.hackyouriphone.org
+DOMAIN,cokepokes.github.io
+DOMAIN,repo.incendo.ws
+
+
