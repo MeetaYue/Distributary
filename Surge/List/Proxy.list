@@ -33,7 +33,8 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,office.net
 DOMAIN-SUFFIX,outlook.com
-
+DOMAIN-SUFFIX,githubusercontent.com
+DOMAIN-SUFFIX,github.com
 
 
 
@@ -84,5 +85,6 @@ DOMAIN,xsf1re.github.io
 DOMAIN,julio.hackyouriphone.org
 DOMAIN,cokepokes.github.io
 DOMAIN,repo.incendo.ws
+DOMAIN,c1d3r.com
 
 
