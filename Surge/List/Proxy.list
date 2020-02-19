@@ -71,8 +71,13 @@ DOMAIN-SUFFIX,thebigboss.org  // BigBoss
 DOMAIN,apt.modmyi.com // ModMyi
 DOMAIN,apt.saurik.com // Saurik
 DOMAIN,rpetri.ch
+DOMAIN,checkra.in
+DOMAIN,apt.bingner.com
+DOMAIN,repo.chariz.com
+DOMAIN,repo.dynastic.co
 DOMAIN,repo.packix.com
 DOMAIN,cydia.akemi.ai
+DOMAIN-SUFFIX,github.io
 DOMAIN,getdelta.co
 DOMAIN,limneos.net
 DOMAIN,tigisoftware.com
@@ -86,4 +91,5 @@ DOMAIN,julio.hackyouriphone.org
 DOMAIN,cokepokes.github.io
 DOMAIN,repo.incendo.ws
 DOMAIN,c1d3r.com
-
+DOMAIN,sparkdev.me
+DOMAIN,cydia.zodttd.com
