@@ -19,3 +19,11 @@
 127.0.0.1 thirdwx.qlogo.cn
 127.0.0.1 firebaselogging.googleapis.com
 127.0.0.1 napubgm.broker.tplay.qq.com
+127.0.0.1 public.igamecj.com
+127.0.0.1 hk.voice.gcloudcs.com
+127.0.0.1 meping.igamecj.com
+127.0.0.1 iphonesubmissions.apple.com
+127.0.0.1 applecsb.crm.189.cn
+127.0.0.1 client-beta.pubgameshowtime.com
+127.0.0.1 ios.bugly.qcloud.com
+127.0.0.1 sg.tdm.qq.com

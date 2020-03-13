@@ -78,7 +78,7 @@
 127.0.0.1 download01.ino.qq.com
 127.0.0.1 download02.ino.qq.com
 127.0.0.1 download03.ino.qq.com
-#127.0.0.1 download.1.418021106.cs.gcloud.qq.com
+127.0.0.1 download.1.418021106.cs.gcloud.qq.com
 127.0.0.1 ns-osr.qq.com
 127.0.0.1 ns-os.qq.com
 127.0.0.1 ns-ns1.qq.com
