@@ -10326,7 +10326,7 @@ dns.weixin.qq.com
 0.0.0.0 clientreport.gfm.qq.com
 0.0.0.0 oth.str.mdt.qq.com
 0.0.0.0 cgi.connect.qq.com
-0.0.0.0 !8735D58BA2DC31D7C7098CA109926DD9 .S
+0.0.0.0 !8735D58BA2DC31D7C7098CA109926DD9 .S
 0.0.0.0 api.ksapisrv.com
 0.0.0.0 gameguardian.net
 0.0.0.0 ulogs.umeng.com
@@ -52782,14 +52782,14 @@ dns.weixin.qq.com
 127.0.0.1 analy.qzone.qq.com
 127.0.0.1 analy.qq.com
 127.0.0.1 m.taotao.com
-127.0.0.1 c3.api.micloud.mi.com 
+127.0.0.1 c3.api.micloud.mi.com 
 127.0.0.1 enterprise3dnsadmin.dnspod
 127.0.0.1 sdksp.video.qq.com
 127.0.0.1 sq2.qq.com
 127.0.0.1 sq1.qq.com
 127.0.0.1 sqlobby.qq.com
 127.0.0.1 speed.ino.qq.com
-127.0.0.1 ulogs.umeng.com  
+127.0.0.1 ulogs.umeng.com  
 127.0.0.1 h.taotao.com
 127.0.0.1 open.qzone.qq.com
 127.0.0.1 www.taotao.com
@@ -57993,14 +57993,14 @@ dns.weixin.qq.com
 127.0.0.1 analy.qzone.qq.com
 127.0.0.1 analy.qq.com
 127.0.0.1 m.taotao.com
-127.0.0.1 c3.api.micloud.mi.com 
+127.0.0.1 c3.api.micloud.mi.com 
 127.0.0.1 enterprise3dnsadmin.dnspod
 127.0.0.1 sdksp.video.qq.com
 127.0.0.1 sq2.qq.com
 127.0.0.1 sq1.qq.com
 127.0.0.1 sqlobby.qq.com
 127.0.0.1 speed.ino.qq.com
-127.0.0.1 ulogs.umeng.com  
+127.0.0.1 ulogs.umeng.com  
 127.0.0.1 h.taotao.com
 127.0.0.1 open.qzone.qq.com
 127.0.0.1 www.taotao.com
@@ -64810,110 +64810,3 @@ dns.weixin.qq.com
 127.0.0.1 test.qq.com
 127.0.0.1 rqd.uu.qq.com
 127.0.0.1 rqd.sparta.mig.tencent-cloud.net
-127.0.0.1 m
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-::1             ip6-localhost
