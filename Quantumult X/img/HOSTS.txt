@@ -1,3 +1,11 @@
+#0316guo
+127.0.0.1 pic.upqzfile.com
+127.0.0.1 e6858.e19.s.tl88.net
+127.0.0.1 sq31.pg.qq.com
+127.0.0.1 q.qlogo.cn
+127.0.0.1 game.gtimg.cn.cloud.tc.qq.com
+127.0.0.1 download.1.418021106.cs.gcloud.qq.com
+127.0.0.1 game.gtimg.cn
 #20200315国和平
 127.0.0.1 1.198.5.157
 127.0.0.1 101.226.211.180
