@@ -1,3 +1,21 @@
+#0323
+127.0.0.1 182.254.116.120
+127.0.0.1 182.254.116.117
+127.0.0.1 157.255.192.104
+127.0.0.1 vmp.qq.com
+127.0.0.1 idcconfig.gcloud.qq.com
+127.0.0.1 ios.buyly.qq.com
+127.0.0.1 dlied1.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 gateway.icloud.com.cn
+127.0.0.1 cloudctrl.gcloud.qq.com
+127.0.0.1 api.unipay.qq.com
+127.0.0.1 szmg.qq.com
+127.0.0.1 hpjy-op.tga.qq.com
+127.0.0.1 nggproxy.3q.qq.com
+127.0.0.1 appsupport.qq.com
+127.0.0.1 down.qq.com
+
 #0316guo
 127.0.0.1 pic.upqzfile.com
 127.0.0.1 e6858.e19.s.tl88.net
