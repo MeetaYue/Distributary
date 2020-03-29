@@ -1,3 +1,48 @@
+#0329
+127.0.0.1 app-measurement.com
+127.0.0.1 tencentgames.helpshift.com
+127.0.0.1 ios.bugly.qcloud.com
+127.0.0.1 cdn.pubgameshowtime.com
+127.0.0.1 client-beta.pubgameshowtime.com
+127.0.0.1 pay.igamecj.com
+127.0.0.1 49.51.42.152
+127.0.0.1 www.pubgmobile.com
+127.0.0.1 23.62.226.211
+127.0.0.1 idcconfig.gcloud.qq.com
+127.0.0.1 app.adjust.com
+127.0.0.1 ig-us-sdkapi.igamecj.com
+127.0.0.1 ig-us-notice.igamecj.com
+127.0.0.1 appsupport.qq.com
+127.0.0.1 huatuocode.huatuo.qq.com
+127.0.0.1 qzs.qq.com
+127.0.0.1 i.gtimg.cn
+127.0.0.1 oidb.tim.qq.com
+127.0.0.1 cdn.ark.qq.com
+127.0.0.1 imgcache.qq.com
+127.0.0.1 sqdd.myapp.com
+127.0.0.1 p.qlogo.cn
+127.0.0.1 szmg.qq.com
+127.0.0.1 cmshow.gtimg.cn
+127.0.0.1 3gimg.qq.com
+127.0.0.1 sngapm.qq.com
+127.0.0.1 qzonestyle.gtimg.cn
+127.0.0.1 d.url.cn
+127.0.0.1 dlied1.cdntips.com
+127.0.0.1 down.qq.com
+127.0.0.1 d3g.qq.com
+127.0.0.1 imgs-30016.sz.gfp.tencent-cloud.com
+127.0.0.1 ios.rqd.qq.com
+127.0.0.1 miniapp.gtimg.cn
+127.0.0.1 wxconf.video.qq.com
+127.0.0.1 y.gtimg.cn
+127.0.0.1 59.37.96.170
+127.0.0.1 ipv4.gdt.qq.com
+127.0.0.1 intldlgs.qq.com
+127.0.0.1 filecdn.igamecj.com
+127.0.0.1 cloud2.gsdk.proximabeta.com
+127.0.0.1 cloudctrl.gcloud.qq.com
+127.0.0.1 cdn.wetest.qq.com
+127.0.0.1 safebrowsing.googleapis.com
 #0323
 127.0.0.1 182.254.116.120
 127.0.0.1 182.254.116.117
@@ -15,7 +60,6 @@
 127.0.0.1 nggproxy.3q.qq.com
 127.0.0.1 appsupport.qq.com
 127.0.0.1 down.qq.com
-
 #0316guo
 127.0.0.1 pic.upqzfile.com
 127.0.0.1 e6858.e19.s.tl88.net
