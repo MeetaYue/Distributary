@@ -24,3 +24,20 @@ DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,me.com
 
 DOMAIN-SUFFIX,mzstatic.com
+
+# > Apple News and Apple Map TOMTOM Version
+USER-AGENT,AppleNews*
+USER-AGENT,com.apple.news*
+DOMAIN,gspe1-ssl.ls.apple.com
+# USER-AGENT,News*
+# DOMAIN,apple.comscoreresearch.com
+# DOMAIN,gateway.icloud.com
+# DOMAIN,news-client.apple.com
+# DOMAIN,news-edge.apple.com
+# DOMAIN,news-events.apple.com
+# DOMAIN-SUFFIX,apple.news
+
+# > Apple TV
+DOMAIN,np-edge.itunes.apple.com
+DOMAIN,play-edge.itunes.apple.com
+DOMAIN-SUFFIX,tv.apple.com
