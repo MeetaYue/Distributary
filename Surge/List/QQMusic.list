@@ -1,4 +1,6 @@
+USER-AGENT,QQ%E9%9F%B3%E4%B9%90/20006 CFNetwork/1121.2.2 Darwin/19.2.0
+USER-AGENT,Mozilla/5.0 (iPhone; CPU iPhone OS 13_3 like Mac OS X) AppleWebKit/600.1.4 (KHTML, like Gecko) Mobile/12A365 QQMusic/9.12.0 Mskin/white Mcolor/21d398ff Bcolor/00000000 skinid[902] NetType/4G WebView/UIWebView Released[1] zh-Hans-US DeviceModel/iPhone10,3 skin_css/skin2_1_902 Pixel/1125 FreeFlow/0
+URL-REGEX,^https?:\/\/\d*\.\d*\.\d*\.\d*\/amobile\.music\.tc\.qq\.com
 DOMAIN,ws.stream.qqmusic.qq.com
 DOMAIN-SUFFIX,qqmusic.qq.com
 DOMAIN-KEYWORD,qqmusic
-USER-AGENT,QQ%E9%9F%B3%E4%B9%90/20006 CFNetwork/1121.2.2 Darwin/19.2.0
