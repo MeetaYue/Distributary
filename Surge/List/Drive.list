@@ -10,9 +10,22 @@ USER-AGENT,OneDriveiOSApp*
 
 DOMAIN-SUFFIX,mediap.svc.ms
 
+DOMAIN-SUFFIX,1drv.com
+DOMAIN-SUFFIX,onedrive.com
+DOMAIN-SUFFIX,storage.live.com
+DOMAIN,oneclient.sfx.ms
+
 // Google Drive
 USER-AGENT,Google.Drive
 USER-AGENT,Google.Drive*
 DOMAIN-SUFFIX,googleapis.com
 DOMAIN-SUFFIX,googleusercontent.com
 DOMAIN-SUFFIX,drive.google.com
+
+USER-AGENT,%E4%BA%91%E7%AB%AF%E7%A1%AC%E7%9B%98*
+USER-AGENT,Google.Drive*
+USER-AGENT,*com.google.Drive*
+DOMAIN-SUFFIX,docs.google.com
+DOMAIN-SUFFIX,drive.google.com
+DOMAIN-SUFFIX,googledrive.com
+DOMAIN-SUFFIX,googleusercontent.com
